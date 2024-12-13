@@ -1,0 +1,7 @@
+.env
+# bash util scripts (for up evn)
+/util_scripts
+.DS_Store
+.idea
+config/config.yaml
+/.vscode
